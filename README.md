@@ -5,4 +5,6 @@
  主题色调取自文件logo.png中的淡蓝色，分别定义为：  
 \definecolor{BUCTBlue} {RGB}{31,58,70}  
 \definecolor{BuctBlue}{RGB}{211,230,217}   
-如果觉得不满意在.sty文件76和77行可以修改。
+如果觉得不满意在.sty文件76和77行可以修改。  
+2021.10.26 模板已上传至Overleaf： https://www.overleaf.com/latex/templates/beamer-for-buct/rndypbwvfxrp  
+
